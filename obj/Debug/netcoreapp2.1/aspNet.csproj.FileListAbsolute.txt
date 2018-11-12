@@ -31,3 +31,4 @@
 /Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/aspNet.pdb
 /Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/aspNet.csproj.CopyComplete
 /Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/Razor/Views/Escuela/Index.g.cshtml.cs
+/Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/Razor/Views/Asignatura/index.g.cshtml.cs

@@ -9,9 +9,16 @@ namespace aspNet.Controllers
       public IActionResult Index() 
       {
         var escuela = new Escuela();
-        escuela.AnoFundacion=2005;
-        escuela.EscuelaId = Guid.NewGuid().ToString();
+        escuela.AñoDeCreacion=2005;
+        escuela.UniqueId = Guid.NewGuid().ToString();
         escuela.Nombre = "Platzi School";
+        escuela.Ciudad = "México CDMX";
+        escuela.Pais = "México";
+        escuela.TipoEscuela = TiposEscuela.Secundaria;
+        escuela.Direccion = "Metro isabel la catolica";
+
+        ViewBag.CosaDinamica = "La Monja";
+
         return View(escuela);
       }
     } 
