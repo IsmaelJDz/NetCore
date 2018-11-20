@@ -1,0 +1,15 @@
+@model List<Asignatura>
+
+@{
+    ViewData["Title"] = "Info Asignatura";
+}
+ 
+<strong>Desde la vista parcial</strong>
+
+@foreach (var itemAsignatura in Model)
+{
+    <partial name="ObjetoEscuelaSimple" model="itemAsignatura"/>
+}
+
+
+<p>@ViewBag.Fecha</p>
