@@ -36,3 +36,4 @@
 /Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ObjetoEscuelaSimple.g.cshtml.cs
 /Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/Razor/Views/Alumno/index.g.cshtml.cs
 /Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/Razor/Views/Alumno/MultiAlumno.g.cshtml.cs
+/Users/ismaeljdz7/Documents/aspNet/obj/Debug/netcoreapp2.1/Razor/Views/Shared/ListaObjetoEscuela.g.cshtml.cs
